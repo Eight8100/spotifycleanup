@@ -1,0 +1,9 @@
+Package: com.eight8100.nospotifylyrics
+Name: NoSpotifyLyrics
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Disables the autoplay lyrics preview on Spotify's Now Playing view.
+Maintainer: Eight8100
+Author: Eight8100
+Section: Tweaks
+Depends: mobilesubstrate
